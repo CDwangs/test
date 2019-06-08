@@ -1,5 +1,8 @@
 $(function () {
-	var k = 1
+	var k = 12323452345435
+	var w = 12323452345435
+	var e = 12323452345435
+	var r = 12323452345435
 	// Get the form.
 	var form = $('#ajax-contact');
 
